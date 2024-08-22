@@ -32,7 +32,7 @@ Una pequeña librería llamada "Librería del Saber" vende libros de diferentes 
 
 ---
 
-4. Construya el diagrama Entidad-Relación basado en la siguiente descripción de negocio:\*\*
+4. Construya el diagrama Entidad-Relación basado en la siguiente descripción de negocio:
 
 **_Descripción del negocio:_**
 
