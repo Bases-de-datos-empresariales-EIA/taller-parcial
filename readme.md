@@ -2,9 +2,13 @@
 
 ![Diagrama Entidad-Relación](./media/diagrama1.png)
 
+---
+
 2. **De acuerdo al siguiente diagrama Entidad-Relación, construya los queries de creación de tablas en SQL.**
 
 ![Diagrama Entidad-Relación](./media/diagrama2.png)
+
+---
 
 3. **Construya el diagrama Entidad-Relación basado en la siguiente descripción de negocio:**
 
@@ -26,7 +30,9 @@ Una pequeña librería llamada "Librería del Saber" vende libros de diferentes 
 - Un cliente puede tener una membresía, pero no es obligatorio.
 - Cada libro puede ser comprado en múltiples compras.
 
-4. **Construya el diagrama Entidad-Relación basado en la siguiente descripción de negocio:**
+---
+
+4. Construya el diagrama Entidad-Relación basado en la siguiente descripción de negocio:\*\*
 
 **_Descripción del negocio:_**
 
